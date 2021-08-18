@@ -23,7 +23,7 @@ namespace Registration
             string gender = Console.ReadLine();
 
             Console.Write("Your date of Registration: ");
-            string dob = Console.ReadLine();
+            string dor = Console.ReadLine();
 
             Console.Write("Province: ");
             string prov = Console.ReadLine();
@@ -35,7 +35,7 @@ namespace Registration
             Console.WriteLine("First Name: " + name);
             Console.WriteLine("Surname: " + surname);
             Console.WriteLine("Gender: " + gender);
-            Console.WriteLine("DOB: " + dob);
+            Console.WriteLine("DOB: " + dor);
             Console.WriteLine("Province: " + prov);
         }
     }
