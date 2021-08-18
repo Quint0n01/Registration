@@ -1,0 +1,14 @@
+C:\Users\quint\source\repos\Registration\Registration\bin\Debug\netcoreapp3.1\Registration.exe
+C:\Users\quint\source\repos\Registration\Registration\bin\Debug\netcoreapp3.1\Registration.deps.json
+C:\Users\quint\source\repos\Registration\Registration\bin\Debug\netcoreapp3.1\Registration.runtimeconfig.json
+C:\Users\quint\source\repos\Registration\Registration\bin\Debug\netcoreapp3.1\Registration.runtimeconfig.dev.json
+C:\Users\quint\source\repos\Registration\Registration\bin\Debug\netcoreapp3.1\Registration.dll
+C:\Users\quint\source\repos\Registration\Registration\bin\Debug\netcoreapp3.1\Registration.pdb
+C:\Users\quint\source\repos\Registration\Registration\obj\Debug\netcoreapp3.1\Registration.csproj.AssemblyReference.cache
+C:\Users\quint\source\repos\Registration\Registration\obj\Debug\netcoreapp3.1\Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quint\source\repos\Registration\Registration\obj\Debug\netcoreapp3.1\Registration.AssemblyInfoInputs.cache
+C:\Users\quint\source\repos\Registration\Registration\obj\Debug\netcoreapp3.1\Registration.AssemblyInfo.cs
+C:\Users\quint\source\repos\Registration\Registration\obj\Debug\netcoreapp3.1\Registration.csproj.CoreCompileInputs.cache
+C:\Users\quint\source\repos\Registration\Registration\obj\Debug\netcoreapp3.1\Registration.dll
+C:\Users\quint\source\repos\Registration\Registration\obj\Debug\netcoreapp3.1\Registration.pdb
+C:\Users\quint\source\repos\Registration\Registration\obj\Debug\netcoreapp3.1\Registration.genruntimeconfig.cache
