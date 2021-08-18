@@ -28,7 +28,7 @@ namespace Registration
             Console.Write("Province: ");
             string prov = Console.ReadLine();
 
-            Console.WriteLine("");
+            Console.WriteLine("------------------------");
 
             Console.WriteLine("Summary of information submitted:");
             Console.WriteLine("ID: " + idn);
