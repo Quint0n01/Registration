@@ -22,7 +22,7 @@ namespace Registration
             Console.Write("Your Gender: ");
             string gender = Console.ReadLine();
 
-            Console.Write("Your date of Birth: ");
+            Console.Write("Your date of Registration: ");
             string dob = Console.ReadLine();
 
             Console.Write("Province: ");
